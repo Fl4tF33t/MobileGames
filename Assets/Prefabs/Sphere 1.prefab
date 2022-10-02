@@ -13,10 +13,10 @@ GameObject:
   - component: {fileID: 1568979652855152061}
   - component: {fileID: 1568979652855152060}
   - component: {fileID: 8083836958091062891}
-  - component: {fileID: 1412714371542493693}
+  - component: {fileID: -4603608825725114476}
   m_Layer: 0
-  m_Name: Sphere
-  m_TagString: BlackSpere
+  m_Name: Sphere 1
+  m_TagString: BlueSphere
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -64,7 +64,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: fcb9d235196cb0641b9e44147a390fb4, type: 2}
+  - {fileID: 2100000, guid: 803a4d3f73af84444b84685c5d4a43c3, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -115,7 +115,7 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
---- !u!114 &1412714371542493693
+--- !u!114 &-4603608825725114476
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}

@@ -225,9 +225,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1288
-        y: 1856
-        width: 41
-        height: 182
+        y: 1843
+        width: 123
+        height: 195
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -237,27 +237,6 @@ TextureImporter:
       bones: []
       spriteID: 38c8a16db0804454094fc0806ea74d5a
       internalID: -1783104678
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: UI_Sheet_Common_9
-      rect:
-        serializedVersion: 2
-        x: 1367
-        y: 1856
-        width: 40
-        height: 182
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1fc5a6a2ea2122449b6b281a4451e2a8
-      internalID: -533869518
       vertices: []
       indices: 
       edges: []
